@@ -1,0 +1,18 @@
+[
+  {"question": "How many parameters does BERT-large have?", "doc": "bert.pdf", "pages": [3, 8]},
+  {"question": "How many parameters does BERT-base have?", "doc": "bert.pdf", "pages": [3, 8]},
+  {"question": "What hidden size and number of layers does BERT-large use?", "doc": "bert.pdf", "pages": [3]},
+  {"question": "Which BERT model was chosen to have the same size as OpenAI GPT?", "doc": "bert.pdf", "pages": [3]},
+  {"question": "How does DPR compare with BM25?", "doc": "dense.pdf", "pages": [5]},
+  {"question": "What was the top-20 accuracy of DPR versus BM25 on Natural Questions?", "doc": "dense.pdf", "pages": [5]},
+  {"question": "Why does BM25 do better than DPR on SQuAD?", "doc": "dense.pdf", "pages": [5]},
+  {"question": "What value of lambda is used to combine BM25 and DPR scores?", "doc": "dense.pdf", "pages": [5]},
+  {"question": "How big is the larger of the two BERT models, counting its trainable weights?", "doc": "bert.pdf", "pages": [3, 8]},
+  {"question": "What is the size of the smaller BERT variant?", "doc": "bert.pdf", "pages": [3, 8]},
+  {"question": "How many stacked blocks and how wide are the internal vectors in the bigger BERT?", "doc": "bert.pdf", "pages": [3]},
+  {"question": "Which of the two BERT sizes matches the size of the GPT model from OpenAI?", "doc": "bert.pdf", "pages": [3]},
+  {"question": "Is the neural passage retriever better than the traditional word-matching method?", "doc": "dense.pdf", "pages": [5]},
+  {"question": "How much more often does the neural retriever find the right passage in its top 20 for Natural Questions?", "doc": "dense.pdf", "pages": [5]},
+  {"question": "Why does the older word-matching method win on the reading comprehension dataset from Stanford?", "doc": "dense.pdf", "pages": [5]},
+  {"question": "How are the scores of the two retrievers blended into one ranking, and with what weight?", "doc": "dense.pdf", "pages": [5]}
+]

@@ -1,0 +1,10 @@
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+pypdf
+rank_bm25
+streamlit

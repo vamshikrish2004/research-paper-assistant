@@ -1,0 +1,6 @@
+venv/
+db_chromadb/
+chunks.json
+__pycache__/
+.DS_Store
+docs/*.pdf
