@@ -2,6 +2,8 @@
 
 A question-answering app over research-paper PDFs. It retrieves relevant passages with hybrid search and re-ranking, writes answers with a local LLM, and cites its sources. A script then checks the citations. Everything runs locally and needs no API keys.
 
+![App screenshot](screenshots/app.png)
+
 ## Features
 
 - **Hybrid retrieval**: vector search (by meaning) and BM25 keyword search, merged with Reciprocal Rank Fusion
